@@ -1,4 +1,4 @@
-Kenyan Elections 2022 Registerd Voters
+Kenyan Elections 2022 Registered Voters
 ================
 
 -   In this project you will find some scripts that were used to extract

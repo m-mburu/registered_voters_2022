@@ -1,5 +1,5 @@
 ---
-title: "Kenyan Elections 2022 Registerd Voters"
+title: "Kenyan Elections 2022 Registered Voters"
 output: github_document
 ---
 
