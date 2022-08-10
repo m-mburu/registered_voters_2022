@@ -7,4 +7,5 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-In this project you will find some scripts that were used to extract data from IEBC pdf files [registered voters pdfs](https://www.iebc.or.ke/registration/?Statistics_of_Voter_2022)
+- In this project you will find some scripts that were used to extract data from IEBC pdf files [registered voters pdfs](https://www.iebc.or.ke/registration/?Statistics_of_Voter_2022)
+- The final data sets are in data folder
