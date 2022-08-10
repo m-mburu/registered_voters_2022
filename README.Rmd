@@ -1,0 +1,10 @@
+---
+title: "Kenyan Elections 2022 Registerd Voters"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+In this project you will find some scripts that were used to extract data from IEBC pdf files [registered voters pdfs](https://www.iebc.or.ke/registration/?Statistics_of_Voter_2022)
