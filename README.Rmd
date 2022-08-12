@@ -1,11 +1,27 @@
 ---
-title: "Kenyan Elections 2022 Registered Voters"
+title: "Pliminary Presidential Results"
 output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE)
+library(tidyverse)
+library(googlesheets4)
+library(data.table)
+library(janitor)
+library(DT)
 ```
 
-- In this project you will find some scripts that were used to extract data from IEBC pdf files [registered voters pdfs](https://www.iebc.or.ke/registration/?Statistics_of_Voter_2022)
-- The final data sets are in data folder
+
+```{r}
+source("mwango_capital_data.R")
+```
+
+## Results
+
+```{r}
+datatable(tab_president)
+```
+
+
+- **Data Courtesy of Mwango Capital** 
