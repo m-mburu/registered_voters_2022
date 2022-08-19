@@ -1,4 +1,4 @@
-Pliminary Presidential Results
+Preliminary Presidential Results
 ================
 
 ## Results
